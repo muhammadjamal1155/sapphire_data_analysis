@@ -36,17 +36,17 @@ Key modeling decisions:
 ### 1. Executive Overview
 The 10-second summary — total revenue, total output, total defects, on-time delivery %, and defect rate as headline KPIs, with revenue and output trends by month and a stage-split output view.
 
-![Executive Overview](docs/images/Executive%20summary.jpg)
+![Executive Overview](docs/images/executive%20summary.jpg)
 
 ### 2. Revenue & Sales Drivers
 Month-over-month revenue change broken down by customer and product, plus a decomposition tree that lets you drill from Stage → Product → Customer → Region to trace exactly where a revenue swing came from.
 
-![Revenue and Sales Drivers](docs/images/Revenue%20and%20Sale%20Drivers.jpg)
+![Revenue and Sales Drivers](docs/images/Revenue%20and%20sales.jpg)
 
 ### 3. Production & Quality
 Output and defect rate trends by month, defect rate by shift and by production stage, and a scatter view of output vs. defect rate by machine line — used to spot whether higher-output lines also run higher defect rates.
 
-![Production and Quality](docs/images/Production%20and%20Quality.jpg)
+![Production and Quality](docs/images/production%20and%20qualitu.jpg)
 
 ### 4. Operations & Downtime
 Root-cause view of machine downtime — a Pareto-style bar chart of downtime by reason (sorted to surface the top 2–3 causes), downtime by machine line, cotton consumption vs. restocking pattern, and downtime share by manufacturing unit.
