@@ -51,12 +51,12 @@ Output and defect rate trends by month, defect rate by shift and by production s
 ### 4. Operations & Downtime
 Root-cause view of machine downtime — a Pareto-style bar chart of downtime by reason (sorted to surface the top 2–3 causes), downtime by machine line, cotton consumption vs. restocking pattern, and downtime share by manufacturing unit.
 
-![Operations and Downtime](docs/images/operations%20and%20downtime.jpg)
+![Operations and Downtime](docs/images/operation%20and%20downtime.jpg)
 
 ### 5. Key Insights
 An auto-summarized performance page pulling together the headline movements across revenue, order volume, downtime, and on-time delivery for the selected month, alongside a production-stage summary table.
 
-![Key Insights](docs/images/key%20insghts.jpg)
+![Key Insights](docs/images/key%20insights.jpg)
 
 ---
 
