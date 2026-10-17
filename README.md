@@ -13,7 +13,6 @@ A 5-page Power BI dashboard analyzing production, quality, downtime, and revenue
 - **DAX** — calculated columns, measures, time intelligence
 - **Python (pandas)** — synthetic dataset generation
 - **Excel** — source data delivery format
-
 ---
 
 ## Data Model
